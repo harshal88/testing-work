@@ -1,0 +1,42 @@
+
+Executing tests from JUnitTest
+Class under test=Premium/null
+Test execution results
+   Test [1454,sut]test25 passed.
+   Test [1454,sut]test26 failed: java.lang.AssertionError: expected:<100> but was:<1010> in JUnitTest.test26(JUnitTest.java:24)
+   Test [1454,sut]test27 failed: java.lang.AssertionError: expected:<60> but was:<50> in JUnitTest.test27(JUnitTest.java:30)
+   Test [1454,sut]test28 passed.
+   Test [1454,sut]tes31a failed: java.lang.AssertionError: expected:<9> but was:<-1> in JUnitTest.tes31a(JUnitTest.java:55)
+   Test [1454,sut]test32a failed: java.lang.AssertionError: expected:<9> but was:<-1> in JUnitTest.test32a(JUnitTest.java:62)
+   Test [1454,sut]test31b passed.
+   Test [1454,sut]test31c failed: java.lang.AssertionError: expected:<9> but was:<-1> in JUnitTest.test31c(JUnitTest.java:74)
+   Test [1454,sut]test32c failed: java.lang.AssertionError: expected:<9> but was:<-1> in JUnitTest.test32c(JUnitTest.java:80)
+   Test [1454,sut]test33 failed: java.lang.AssertionError: expected:<9> but was:<-1> in JUnitTest.test33(JUnitTest.java:87)
+   Test [1454,sut]test34b failed: java.lang.AssertionError: expected:<9> but was:<-1> in JUnitTest.test34b(JUnitTest.java:94)
+   Test [1454,sut]test34a passed.
+   Test [1454,sut]test34c failed: java.lang.AssertionError: expected:<9> but was:<-1> in JUnitTest.test34c(JUnitTest.java:106)
+   Test [1454,sut]test35e failed: java.lang.AssertionError: expected:<9> but was:<-1> in JUnitTest.test35e(JUnitTest.java:112)
+   Test [1454,sut]test36 failed: java.lang.AssertionError: expected:<9> but was:<-1> in JUnitTest.test36(JUnitTest.java:118)
+   Test [1454,sut]test37 failed: java.lang.AssertionError: expected:<9> but was:<-1> in JUnitTest.test37(JUnitTest.java:124)
+   Test [1454,sut]test38 passed.
+   Test [1454,sut]test39 passed.
+   Test [1454,sut]test40 failed: java.lang.AssertionError: expected:<9> but was:<-1> in JUnitTest.test40(JUnitTest.java:143)
+   Test [1454,sut]test41 failed: java.lang.AssertionError: expected:<9> but was:<-1> in JUnitTest.test41(JUnitTest.java:149)
+   Test [1454,sut]test42 failed: java.lang.AssertionError: expected:<9> but was:<-1> in JUnitTest.test42(JUnitTest.java:155)
+   Test [1454,sut]test43 failed: java.lang.AssertionError: expected:<9> but was:<-1> in JUnitTest.test43(JUnitTest.java:161)
+   Test [1454,sut]test44 passed.
+   Test [1454,sut]test45 passed.
+   Test [1454,sut]test46 failed: java.lang.AssertionError: expected:<310> but was:<2550> in JUnitTest.test46(JUnitTest.java:179)
+   Test [1454,sut]test47 failed: java.lang.AssertionError: expected:<300> but was:<2550> in JUnitTest.test47(JUnitTest.java:185)
+   Test [1454,sut]test48 failed: java.lang.AssertionError: expected:<60> but was:<50> in JUnitTest.test48(JUnitTest.java:191)
+Test class results:
+   Tests run=27
+   Tests passed=8
+   Tests failed=19
+   Test Class Result=FAIL
+
+Overall test results:
+   Tests run=27
+   Tests passed=8
+   Tests failed=19
+   Overall result=FAIL
